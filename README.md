@@ -26,12 +26,18 @@ Ce projet vise à moderniser et améliorer le site web de l'Association (AC2FL),
 ## Tâches réalisées
 
 ➢ Création d'un logo et remplacement de celui qui est mis sur le site de.
+
 ➢ Rubrique : « nos activités » : Modifications des 3 paragraphes « Best qualite food », « Music lesson » et
 « Bus service » en correspondance avec les prestations complémentaires décrites.
+
 ➢ Rubrique : « catégories d’ULM » : affichage des 3 catégories d’ULM utilisés par l’association.
+
 ➢ Rubrique : « Review » modification de l’onglet de navigation.
+
 ➢ Rubrique : Ajout de la rubrique tarifs avec un caroussel présentahnt plusieurs tableaux
+
 ➢ Installation un popup de consentement des cookies
+
 ➢ Installation d'un widget de météo très important pour la sécurité des pilotes
 
 ## Installation
