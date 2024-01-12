@@ -48,6 +48,7 @@ Pour contribuer ou tester localement, suivez ces étapes :
 ## Structure du Projet
 
 SAE303_Template
+
 ![image](https://github.com/IlyesBo/SAE303_Template/assets/115214794/1006d7f4-5ab2-4fce-9313-b579e8e938af)
 
 
