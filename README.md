@@ -1,26 +1,29 @@
 Refonte du Site Web de l'AC2FL
 
 Ce projet vise à moderniser et améliorer le site web de l'Association (AC2FL), un aéroclub d'ULM, en utilisantune template (c'est à dire un site web créé au préalable qu'on personnalise).
-Table des matières
 
-    Aperçu
-    Technologies utilisées
-    Tâches réalisées
-    Installation
-    Structure du Projet
-    Auteurs
+## Table des matières
 
-Aperçu
+- [Aperçu](#aperçu)
+- [Technologies utilisées](#technologies-utilisées)
+- [Tâches réalisées](#tâches_réaliséess)
+- [Installation](#installation)
+- [Structure du Projet](#structure-du-projet)
+- [Auteursr](#auteurs)
+
+
+##Aperçu
 
 ![image](https://github.com/IlyesBo/SAE303_Template/assets/115214794/9cdd97c0-44ab-4ba8-9672-1db638811634)
 
-Technologies utilisées
+##Technologies utilisées
 
     HTML5
     CSS3 (Bootstrap)
     JavaScript
+    Lien de la template: https://awaikenthemes.com/template/free-mobile-app-landing-page/
 
-Tâches réalisées
+##Tâches réalisées
 
 ➢ Création d'un logo et remplacement de celui qui est mis sur le site de.
 ➢ Rubrique : « nos activités » : Modifications des 3 paragraphes « Best qualite food », « Music lesson » et
@@ -31,7 +34,7 @@ Tâches réalisées
 ➢ Installation un popup de consentement des cookies
 ➢ Installation d'un widget de météo très important pour la sécurité des pilotes
 
-Installation
+##Installation
 
 Pour contribuer ou tester localement, suivez ces étapes :
 
@@ -42,7 +45,7 @@ Pour contribuer ou tester localement, suivez ces étapes :
 
 
 
-Structure du Projet
+##Structure du Projet
 
 SAE303_Template
 ![image](https://github.com/IlyesBo/SAE303_Template/assets/115214794/1006d7f4-5ab2-4fce-9313-b579e8e938af)
