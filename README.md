@@ -10,17 +10,17 @@ Table des matières
     Structure du Projet
     Auteurs
 
-##Aperçu
+Aperçu
 
 ![image](https://github.com/IlyesBo/SAE303_Template/assets/115214794/9cdd97c0-44ab-4ba8-9672-1db638811634)
 
-##Technologies utilisées
+Technologies utilisées
 
     HTML5
     CSS3 (Bootstrap)
     JavaScript
 
-##Tâches réalisées
+Tâches réalisées
 
 ➢ Création d'un logo et remplacement de celui qui est mis sur le site de.
 ➢ Rubrique : « nos activités » : Modifications des 3 paragraphes « Best qualite food », « Music lesson » et
@@ -31,7 +31,7 @@ Table des matières
 ➢ Installation un popup de consentement des cookies
 ➢ Installation d'un widget de météo très important pour la sécurité des pilotes
 
-##Installation
+Installation
 
 Pour contribuer ou tester localement, suivez ces étapes :
 
@@ -40,7 +40,7 @@ Pour contribuer ou tester localement, suivez ces étapes :
     git clone https://github.com/IlyesBo/SAE303_Template.git
     cd SAE303_Template
 
-markdown
+
 
 Structure du Projet
 
