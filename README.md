@@ -1,6 +1,6 @@
 Refonte du Site Web de l'AC2FL
 
-Ce projet vise à moderniser et améliorer le site web de l'Association (AC2FL), un aéroclub d'ULM, en utilisantune template (c'est à dire un site web créé au préalable qu'on personnalise).
+Ce projet vise à moderniser et améliorer le site web de l'Association (AC2FL), un aéroclub d'ULM, en utilisant une template (c'est à dire un site web créé au préalable qu'on personnalise).
 
 ## Table des matières
 
